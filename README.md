@@ -1,5 +1,31 @@
 # kc-open-data-library
-A inventory or open data in the Kansas City Area.
+A inventory or open data in the Kansas City Area.  To see the library goto the [wiki](https://github.com/codeforkansascity/kc-open-data-library/wiki) categories in the library are 
+* Categories
+  *  Crime Data
+  *  Reported Issues
+  *  Land Bank Properties
+  *  Buildings
+  *  Business
+  *  Liquor Licenses
+  *  Food
+  *  Traffic
+  *  Bus Transit
+  *  Census
+  *  Misc
+  *  GIS Data \ API's \ Map Services(Free) \ Templates
+  *  Data
+  *  Map Templates
+  *  API's - just a few of the many, JavaScript only
+  *  Routing \ Geocoding \ Map Services with free (but limited) subscriptions - excluding those already mentioned above...
+  *  MARC - Datasets
+* Future Datasets
+  *  Code Violations
+  *  Demographic data
+  *  Property value
+  *  Absentee owners
+  *  Foreclosures - county/state may be sources.
+  *  Population
+  *  Zoning variances
 
 For now please add open datasets as issues untill we determine how and were we will store this information.
 
