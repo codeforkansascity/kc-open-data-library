@@ -5,6 +5,7 @@ A inventory or open data in the Kansas City Area.  To see the library goto the [
   *  Reported Issues
   *  Land Bank Properties
   *  Buildings
+  *  Loan
   *  Business
   *  Liquor Licenses
   *  Food
