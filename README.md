@@ -35,6 +35,9 @@ Currently we are using the Wiki in the repository but soon we will need somethin
 but easily searchable. 
 Please submit an issue if you know software that would meet this need or have an idea for a design.
 
+### Other 
+
+[US City Open Data Census](http://us-city.census.okfn.org/place/kansascitymo)
 
 ### Just in
 
