@@ -1,5 +1,5 @@
 # kc-open-data-library
-A inventory or open data in the Kansas City Area.  
+A inventory of open data in the Kansas City Area.  
 
 ## To view the entire collection go to the [WIKI](https://github.com/codeforkansascity/kc-open-data-library/wiki)
 
