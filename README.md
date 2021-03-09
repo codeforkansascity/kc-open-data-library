@@ -45,4 +45,5 @@ Please submit an issue if you know software that would meet this need or have an
 
 ### Just in
 
-[James R. DeLisle List of data](https://jrdelisle.com/wheres_it/)
+* [James R. DeLisle List of data](https://jrdelisle.com/wheres_it/)
+* [GIS and data analysts](https://jrdelisle.com/whos_mapping/)
