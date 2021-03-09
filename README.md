@@ -45,6 +45,4 @@ Please submit an issue if you know software that would meet this need or have an
 
 ### Just in
 
-[Unified Government Open Data](http://yourdata.wycokck.org/)
-
-US Census Bureau has a City SDK https://uscensusbureau.github.io/citysdk its GitHub page is at https://github.com/uscensusbureau/citysdk.
+[James R. DeLisle List of data](https://jrdelisle.com/wheres_it/)
